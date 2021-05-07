@@ -1,0 +1,9 @@
+Welcome to Russian Roulette!
+How to play: 
+1) Load a bullet into the gun
+2) Spin the chamber
+3)Choose to aim at your head or away from you
+If the gun fires while aiming at your head you lose!
+If the gun fires while aiming away you win the round! 
+Be careful as you only have two chances at aiming away!
+Have fun!
